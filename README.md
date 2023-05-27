@@ -11,7 +11,7 @@ This application benchmarks five different sorting algorithms implemented in Jav
 - Shell Sort
 - Merge Sort
 
-The Report introducing the detailed analysis of each algorithm and discussing the results is also included. 
+The Report introducing the detailed analysis of each algorithm and discussing the results of the benchmarking process is also included. 
 
 ### Running project
 To run the project, users should download the project folder and run the "Runner" in any Java IDE.
