@@ -11,6 +11,13 @@ This application benchmarks five different sorting algorithms implemented in Jav
 - Shell Sort
 - Merge Sort
 
+_These five sorting algorithms have been chosen according to the following criteria:_
+
++ A simple comparison-based sort (Bubble Sort, Selection Sort or Insertion Sort)
++ An efficient comparison-based sort (Merge Sort, Quicksort or Heap Sort)
++ A non-comparison sort (Counting Sort, Bucket Sort or Radix Sort)
++ Any other two sorting algorithm of your choice
+
 The Report introducing the detailed analysis of each algorithm and discussing the results of the benchmarking process is also included. 
 
 ### Running project
